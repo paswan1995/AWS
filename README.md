@@ -18,9 +18,3 @@
 * copy that `public id` and go on terminal write there `cd ~` `ssh ubuntu@ip address` paste here.
 * ![preview](images/aws11.png)
 * ----------------------------------------------------------------------------------------------------------
-* 
-*    
-*    
-* 
-* 
-* 
