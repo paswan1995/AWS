@@ -26,5 +26,6 @@
 
     *  IAM User
     * Root User
+* EC2 is a service and VM is a resources
 
 ##
