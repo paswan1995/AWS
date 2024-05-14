@@ -4,12 +4,13 @@
 * The architecture of this application is
 ![preview](images/5.png)
 
-* To make this application accesible, iHealthSystem is having Datacenters in
+* To make this application accesible, iHealthSystem is having Datacenters in,
+
        * Hyderabad
        * Mumbai
        * Delhi
   
-* To maintain this application, the following skills are required
+* To maintain this application, the following skills are required.
        * Data center administration
        * Network Administration
        * Windows/Linux Administration
