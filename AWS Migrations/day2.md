@@ -10,7 +10,8 @@
        * Mumbai
        * Delhi
   
-* To maintain this application, the following skills are required.
+* To maintain this application, the following skills are required,
+       
        * Data center administration
        * Network Administration
        * Windows/Linux Administration
