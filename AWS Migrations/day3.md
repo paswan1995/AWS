@@ -32,15 +32,18 @@
            * Datatbase
            * Storage 
 * Modernization
+     ```
       * application to Container in Kubernetes
       * application to Serverless(Lambda function)
+     ```
 
 * ## Database Migrations
 * AWS has a service called as Database Migration Service (DMS)
 ![preview](images/13.png)
 * Pricing refer:https://aws.amazon.com/dms/pricing/
 * for official docs of Database Migration Service (DMS). Refer:https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html
-![preview](images/14.png)   
+![preview](images/14.png)  
+
 * What Databases AWS Supports?
       * mysql
       * Microsoft SQL server 
