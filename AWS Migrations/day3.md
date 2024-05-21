@@ -4,6 +4,7 @@
 
 * Hypervisor is used to create virtual Machines
 * There are two types of Hypervisors
+```
       * Type 1
            * This is installed on the Bare metal and helps in creating virtual machines
            * Examples:
@@ -17,7 +18,8 @@
                  * Virtual Box
                  * Vmware Workstation
                  * KVM
-                  ![preview](images/10.png)
+```
+![preview](images/10.png)
 * Virtualization Software (Management)
 ![preview](images/11.png)
 ![preview](images/12.png)
