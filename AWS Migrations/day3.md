@@ -47,7 +47,11 @@
       * Postgres
       * Oracle
 * When the source database engine is one of the above then we would not have much of issues. But if we want to move from IBM DB2 to mysql then AWS also supports this.
+  
 * The support of Cross DB Engine Migration is acheived by Schema Conversion Tool which is applied at replication instance.
+  
+* __Replication insatance__ has 2 purpose its acts as a cash whatever had been done so far its stores that and if you want moving from one engine to other engine basically try to do some conversation. 
+  
 ![preview](images/15.png)
 * ## Lab Migrations
 * We will do the following migrations
@@ -60,4 +64,3 @@
                * Use Database as a Service from any cloud.
    
 ##
-
