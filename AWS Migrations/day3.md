@@ -61,10 +61,10 @@
 ![preview](images/15.png)
 * ## Lab Migrations
 * We will do the following migrations
-       ``` 
+```
          * mysql to mysql (AWS RDS)
          * Microsoft SQL Server to AWS RDS (Microsoft SQL Server)
-       ```
+```
 * ## Assumptions:
       * We will simulate on-premises
            * We have two options
